@@ -1,0 +1,15 @@
+/output/
+/.private/
+/assets/
+__pycache__/
+*.pyc
+/.pytest_cache/
+/.venv/
+*.onnx
+*.onnx.json
+*.wav
+*.mp4
+*.mov
+*.mkv
+*.png
+*.jpg
